@@ -11,6 +11,6 @@ empresa. O sistema armazena as seguintes informações:
 - Nome do Veículo
 - Número de Dias
 
-Documento com informações detalhadas do projeto está disponível com o nome "Proj_3_ArvB.pdf".
-Código de inspiração para o algoritmo diponível com nome "Codigo-ArvoreB.pdf" e "insere_busca_ab.cpp" dentro de "Proj_3_files.zip".
-O projeto deverá acessar como entradas os arquivos "insere.bin" e "busca.bin".
+O documento com informações detalhadas do projeto está disponível pelo nome "Proj_3_ArvB.pdf".
+Algoritmos utilizados de inspiração para a construção do código estão disponíveis na pasta "inspiration codes".
+O projeto terá como entradas os arquivos "insere.bin" e "busca.bin".
