@@ -1,4 +1,4 @@
-# ED2_Project3
+# ED2 - Projeto 3
 Projeto 3 da disciplina de Estrutura de dados - 2º semestre de 2022
 
 O objetivo do projeto é gerenciar um sistema de arquivos que gerência a locação de veículos de uma dada
