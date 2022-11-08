@@ -1,5 +1,5 @@
-/*** Sérgio Paulo Guerrato Alves - BCC UNESP - Rio Claro ***/
-/*** Project 1: Files - Compression and Dinamic Recovery ***/
+/*** SÃ©rgio Paulo Guerrato Alves - BCC UNESP - Rio Claro ***/
+/*** Project 3: Indexing - B-Tree ***/
 
 #include <stdbool.h>
 #include <stdio.h>
